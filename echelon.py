@@ -28,6 +28,7 @@ def extractText(arr, mode):
 
 # Don't open firefox window on screen
 options = FirefoxOptions()
+options.binary_location=r"usr/lib/firefox-esr/firefox-esr"
 options.add_argument('--headless')
 
 driver = webdriver.Firefox(options=options)
@@ -56,7 +57,7 @@ for i in range(len(artistnames)):
     chart.append(song)
 
 songs = extractText(chart, 'listofdicts')
-
+print(songs)
 # write charts in charts.txt file in json format
 with open('charts.txt', 'w') as f:
     f.write(json.dumps(songs))
