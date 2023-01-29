@@ -1,0 +1,79 @@
+1674814023466	geckodriver	INFO	Listening on 127.0.0.1:57541
+1674814651468	geckodriver	INFO	Listening on 127.0.0.1:49327
+1674854600061	geckodriver	INFO	Listening on 127.0.0.1:41597
+1674854600300	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "34351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiley0AT9i"
+*** You are running in headless mode.
+Gtk-Message: 02:53:20.338: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1674854600875	Marionette	INFO	Marionette enabled
+1674854600883	Marionette	INFO	Listening on port 46161
+Read port: 46161
+WebDriver BiDi listening on ws://127.0.0.1:34351
+1674854601051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley0AT9i/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34351/devtools/browser/1dbe79cf-4ea4-4c2b-aac6-133fe8b0a3dc
+1674854640160	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674854643196	geckodriver	INFO	Listening on 127.0.0.1:38297
+1674854643608	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "57391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0jEdos"
+*** You are running in headless mode.
+Gtk-Message: 02:54:03.642: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1674854644031	Marionette	INFO	Marionette enabled
+1674854644037	Marionette	INFO	Listening on port 33509
+Read port: 33509
+WebDriver BiDi listening on ws://127.0.0.1:57391
+1674854644163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0jEdos/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57391/devtools/browser/273346f5-aace-4228-8924-322d89f87573
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 7049 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674854651954	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674854668387	Marionette	INFO	Stopped listening on port 33509
+1674854710309	geckodriver	INFO	Listening on 127.0.0.1:48675
+1674854710733	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "52455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile12PRBv"
+*** You are running in headless mode.
+Gtk-Message: 02:55:10.768: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1674854711163	Marionette	INFO	Marionette enabled
+1674854711170	Marionette	INFO	Listening on port 37747
+Read port: 37747
+WebDriver BiDi listening on ws://127.0.0.1:52455
+1674854711308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile12PRBv/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52455/devtools/browser/787f89c9-383d-4449-8f01-feec4bde9dcc
+1674854750203	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674854898099	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 4156 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674854919372	Marionette	INFO	Stopped listening on port 37747
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1674854958936	geckodriver	INFO	Listening on 127.0.0.1:46275
+1674854959353	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "53779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6Woq7r"
+*** You are running in headless mode.
+Gtk-Message: 02:59:19.391: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1674854959775	Marionette	INFO	Marionette enabled
+1674854959782	Marionette	INFO	Listening on port 41177
+Read port: 41177
+WebDriver BiDi listening on ws://127.0.0.1:53779
+1674854959907	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6Woq7r/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53779/devtools/browser/b75a7c0c-4116-4a59-9d25-0b711c3055fe
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 305 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674854967087	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674854984727	Marionette	INFO	Stopped listening on port 41177
+1674855008418	geckodriver	INFO	Listening on 127.0.0.1:38427
+1674855008829	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "--headless" "--remote-debugging-port" "58227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebKL5Ix"
+*** You are running in headless mode.
+Gtk-Message: 03:00:08.866: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1674855009255	Marionette	INFO	Marionette enabled
+1674855009260	Marionette	INFO	Listening on port 45683
+Read port: 45683
+WebDriver BiDi listening on ws://127.0.0.1:58227
+1674855009391	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebKL5Ix/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58227/devtools/browser/06becc0d-54b4-43e9-bc21-388482315763
+JavaScript warning: https://genius.com/ line 1 > injectedScript, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674855049328	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1674855197812	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/o7PJ4mencrJpfBYBJyNLdqHy4_8T8e3TraCPfA4Fn-I.js line 2 > eval line 1368 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674855219100	Marionette	INFO	Stopped listening on port 45683
