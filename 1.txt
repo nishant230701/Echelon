@@ -1,2 +1,0 @@
-docker ps -a
-docker export (CONTAINER_ID) > (TARBALL_NAME).tar
